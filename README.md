@@ -1,1 +1,1 @@
-3d portfolio using react-fiber.
+3d portfolio using react-three/fiber.
